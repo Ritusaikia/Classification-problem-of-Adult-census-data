@@ -27,3 +27,8 @@ To classify the recorded individuals in the Census whether their income is great
   •	native-country: Give the native country of the person
 
 # Approcah of classification
+  •	Finding out the problem statement i.e. to classify the income of an individual.
+  •	Data Understanding: The data has missing values which are not as none or null. There are? in the data.
+  •	Data Preparation: Removed the null, missing values and unappropriated values. Label encoding, OneHotEncoding and PCA.
+  •	Modelling: Various models are created to classify an individual to fit into the slab of less than or greater than $50k.
+  •	Evaluation: Based on the accuracy of the model the best model is recommended.
