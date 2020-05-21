@@ -1,4 +1,5 @@
 # Classification-problem-of-Adult-census-data
+This project is only for the purpose of learning and I've used the publicely available data on the Kaggle website and used some of the key methods from different kernels to learn the approaches.
 
 # Problem Statement:
 To classify the recorded individuals in the Census whether their income is greater than $50,000 or less than equal to $50,000 based on the other recorded attributes.
@@ -26,7 +27,7 @@ To classify the recorded individuals in the Census whether their income is great
   •	hours-per-week: Gives the hours worked by the person.
   •	native-country: Give the native country of the person
 
-# Approcah of classification
+# Approach of classification
   •	Finding out the problem statement i.e. to classify the income of an individual.
   •	Data Understanding: The data has missing values which are not as none or null. There are? in the data.
   •	Data Preparation: Removed the null, missing values and unappropriated values. Label encoding, OneHotEncoding and PCA.
