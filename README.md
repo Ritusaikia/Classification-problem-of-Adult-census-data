@@ -5,7 +5,7 @@ This project is only for the purpose of learning and I've used the publicely ava
 To classify the recorded individuals in the Census whether their income is greater than $50,000 or less than equal to $50,000 based on the other recorded attributes.
 
 # Algorithms used
-Tried to implement different algorithms and check how they performed on the dataset. Impemented the following algorithms:
+Tried to implement different algorithms and check how they performe on the dataset. Impemented the following algorithms:
   •	Logistic regression
   •	Random Forest
   •	Decision Trees
